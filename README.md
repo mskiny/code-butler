@@ -1,4 +1,4 @@
-# ✨ Code Butler - AI Dev with VS Code Insiders & Cline! ✨
+# Code Butler - AI Dev with VS Code Insiders & Cline! ✨
 
 :office: Are you a TALL dev sick of folding in half to type? Or lazy geniuses coding with your feet up? VS Code Insiders & Cline save your spine—and effort! Agent mode and AI smarts let you code tall or sprawl. :sunglasses:  
 
